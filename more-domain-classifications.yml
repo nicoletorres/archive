@@ -1,0 +1,9 @@
+#Domain names and their classification.
+#Format (tab-separated):
+#domain	classification	added
+#The classification column can have one of the following enum values:
+#EXAMPLE, FREEMAIL, FREEMAIL_LOWQUALITY, ISP,
+#MOBILEPHONE_CARRIER, ORGANIZATION, PRIVATE, UNKNOWN.
+#For DISPOSABLE domains, see the other file: "more-dea.yml".
+#example:
+#foo.de	ISP	2022-11-28
